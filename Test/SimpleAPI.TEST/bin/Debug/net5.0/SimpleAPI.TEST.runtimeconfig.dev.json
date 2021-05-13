@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\krill\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\krill\\.nuget\\packages"
+    ]
+  }
+}
